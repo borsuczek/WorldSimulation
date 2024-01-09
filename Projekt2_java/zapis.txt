@@ -1,0 +1,124 @@
+10 10
+wilczejagody
+99 1 0 0
+barszczsosnowskiego
+10 1 0 1
+owca
+4 1 0 3
+czlowiek
+8 1 0 4
+-5
+wilczejagody
+99 1 0 6
+wilczejagody
+99 0 0 7
+guarana
+0 1 0 8
+barszczsosnowskiego
+10 1 1 0
+barszczsosnowskiego
+10 0 1 1
+mlecz
+0 1 1 2
+guarana
+0 1 1 3
+barszczsosnowskiego
+10 0 1 4
+barszczsosnowskiego
+10 1 1 5
+mlecz
+0 1 1 6
+mlecz
+0 0 1 7
+lis
+3 1 1 8
+owca
+4 1 1 9
+wilczejagody
+99 1 2 1
+mlecz
+0 1 2 2
+mlecz
+0 0 2 3
+guarana
+0 0 2 4
+guarana
+0 1 2 5
+antylopa
+4 1 2 6
+mlecz
+0 1 2 7
+antylopa
+4 1 2 8
+zolw
+2 1 3 0
+mlecz
+0 1 3 2
+mlecz
+0 0 3 3
+guarana
+0 1 3 4
+guarana
+0 0 3 5
+mlecz
+0 0 3 7
+mlecz
+0 0 4 2
+mlecz
+0 1 4 3
+mlecz
+0 0 4 4
+cyber-owca
+11 1 4 5
+guarana
+0 0 4 8
+guarana
+0 1 4 9
+guarana
+0 1 5 0
+barszczsosnowskiego
+10 1 5 1
+trawa
+0 0 5 2
+trawa
+0 1 5 3
+trawa
+0 1 5 4
+lis
+3 1 5 5
+trawa
+0 1 5 9
+lis
+3 1 6 3
+barszczsosnowskiego
+10 1 6 6
+barszczsosnowskiego
+10 1 6 7
+barszczsosnowskiego
+10 0 6 8
+trawa
+0 0 6 9
+wilczejagody
+99 0 7 2
+wilczejagody
+99 1 7 3
+guarana
+0 1 7 5
+zolw
+5 1 7 8
+zolw
+2 1 7 9
+wilczejagody
+99 1 8 2
+wilczejagody
+99 0 8 3
+guarana
+0 0 8 5
+barszczsosnowskiego
+10 0 9 1
+barszczsosnowskiego
+10 1 9 2
+zolw
+2 1 9 4
+cyber-owca
+11 1 9 7
