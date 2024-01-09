@@ -1,0 +1,122 @@
+10 10
+wilczejagody
+99 1 0 0
+mlecz
+0 1 0 1
+antylopa
+4 1 0 2
+zolw
+2 1 0 3
+owca
+4 1 0 5
+antylopa
+4 1 0 7
+barszczsosnowskiego
+10 0 0 8
+barszczsosnowskiego
+10 1 0 9
+wilczejagody
+99 0 1 0
+owca
+4 1 1 2
+owca
+4 1 1 4
+owca
+4 0 1 6
+antylopa
+4 0 1 8
+mlecz
+0 1 1 9
+wilczejagody
+99 1 2 1
+barszczsosnowskiego
+10 1 2 5
+mlecz
+0 1 2 8
+guarana
+0 1 2 9
+barszczsosnowskiego
+10 1 3 0
+guarana
+0 1 3 1
+guarana
+0 0 3 2
+trawa
+0 1 3 4
+wilczejagody
+99 1 3 5
+mlecz
+0 0 3 7
+mlecz
+0 0 3 8
+wilczejagody
+99 1 3 9
+wilczejagody
+99 0 4 1
+barszczsosnowskiego
+10 1 4 4
+wilczejagody
+99 0 4 5
+wilk
+9 1 4 6
+mlecz
+0 1 4 7
+antylopa
+4 1 4 8
+mlecz
+0 1 4 9
+czlowiek
+5 1 5 0
+-5 0
+wilczejagody
+99 1 5 1
+wilk
+9 1 5 2
+trawa
+0 0 5 6
+trawa
+0 1 5 7
+wilk
+9 1 5 9
+owca
+4 1 6 0
+lis
+3 1 6 1
+barszczsosnowskiego
+10 1 6 3
+lis
+3 1 6 5
+trawa
+0 1 7 5
+wilczejagody
+99 0 7 6
+owca
+4 1 7 7
+wilczejagody
+99 1 7 9
+barszczsosnowskiego
+10 1 8 0
+lis
+3 1 8 2
+zolw
+2 1 8 3
+wilczejagody
+99 1 8 4
+mlecz
+0 1 8 5
+wilczejagody
+99 1 8 6
+lis
+3 1 8 7
+antylopa
+4 1 8 8
+mlecz
+0 1 8 9
+mlecz
+0 0 9 5
+lis
+3 0 9 6
+lis
+3 1 9 7
+mlecz
+0 0 9 9
